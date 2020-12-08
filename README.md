@@ -10,5 +10,7 @@ le gusta cantar sus penas.
 
 
 *Estrofas del Martin Fierro
+* Creado por DigitalCrow
+*Incluye mas estrofas para Windows, Linux y Mac
 
 ------------
