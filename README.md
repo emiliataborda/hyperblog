@@ -13,4 +13,6 @@ le gusta cantar sus penas.
 * Creado por DigitalCrow
 *Incluye mas estrofas para Windows, Linux y Mac
 
+*Disponible para todas las edades
+
 ------------
